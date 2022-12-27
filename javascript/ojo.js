@@ -18,7 +18,7 @@ document.getElementsByClassName("ojo")[0].addEventListener("click", (_) => {
       xarxa.style.top = ranval(1, 90) + "%";
       xarxa.style.left = ranval(1, 90) + "%";
       xarxa.style.width = ranval(5, 40) + "%";
-      xarxa.style.fontSize = ranval(300, 800) + "%";
+      xarxa.style.fontSize = ranval(200, 700) + "%";
     });
   }, 0.8e3);
 });
