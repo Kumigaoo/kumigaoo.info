@@ -1,0 +1,7 @@
+body {
+  background-image: url("/images/Dibujo4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: hidden;
+}

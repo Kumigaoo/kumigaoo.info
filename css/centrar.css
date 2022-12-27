@@ -1,0 +1,11 @@
+#eye {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  margin: 0;
+}
+#eye > img {
+  height: 15vh;
+}

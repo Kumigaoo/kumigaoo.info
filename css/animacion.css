@@ -1,0 +1,26 @@
+@keyframes closing {
+  0% {
+    filter: none;
+  }
+  14.3% {
+    filter: url("/images/closing1.png");
+  }
+  28.5% {
+    filter: url("/images/closing2.png");
+  }
+  42.85% {
+    filter: url("/images/closing3.png");
+  }
+  57.14% {
+    filter: url("/images/closing4.png");
+  }
+  71.42% {
+    filter: url("/images/closing6.png");
+  }
+  85.71% {
+    filter: url("/images/closing7.png");
+  }
+  100% {
+    display: none;
+  }
+}
